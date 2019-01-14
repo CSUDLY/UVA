@@ -1,0 +1,10 @@
+{
+    "center_point":[],
+    "height":120,
+    "width":120,
+    "altitude":25,
+    "trigger_dist":25,
+    "spacing":10,
+    "angle":0,
+    "turnaround_dist":10
+}
